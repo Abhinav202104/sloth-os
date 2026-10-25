@@ -62,7 +62,7 @@ You *could* wire scripts like this to a closed commercial cloud API—until you 
 
 ### 1. Clone & Install
 ```bash
-git clone https://github.com/YOUR_USERNAME/sloth-os.git
+git clone https://github.com/Abhinav202104/sloth-os.git
 cd sloth-os
 npm install express cors
 ```
